@@ -1,4 +1,4 @@
-# diariodebordovirtual
+# Diário de Bordo Virtual
 Este foi um webapp que criei durante a faculdade para que as equipes do projeto do PIBID pudessem registrar seus relatórios.
 
 - Você só precisa importar a base de dados
