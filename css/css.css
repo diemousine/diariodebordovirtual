@@ -1,0 +1,11 @@
+/*
+ * CSS criado especificamente para o site Diário de Bordo Virtual
+ * Author: Diego Socrates Dias Mousine
+ */
+
+
+/* TAGS */
+a {
+	text-decoration: none !important;
+	cursor: pointer;
+}
